@@ -63,16 +63,11 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
   - Donut chart: Market Share  
   - Clustered bar: Distance group distribution  
 
-- **User-Friendly Design**  
-  - Clean, minimal layout with easy slicers  
-  - Search functionality for carriers and routes  
-
----
 
 ## 🛠 Tools & Technologies
 - **Power BI** – Dashboard & Visualizations
 - ** DAX** - Calculation
-- **Excel ** – Data Cleaning & Preparation  
+- **Power Quary ** – Data Cleaning & Preparation  
 
 ---
 
@@ -90,13 +85,6 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 ### 🌍 Carrier & Route Search Filters  
 [Dashboard Screenshot 3]
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
-
----
-
-## 🚀 Future Improvements
-- Add **forecasting** for passenger demand   
-- Include **interactive drill-through reports**
-- Expand with **real-time data refresh**   
 
 ---
 
