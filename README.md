@@ -87,7 +87,11 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 [Dashboard Screenshot 3]
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
 
+---
+
 ### ✈️ SQL Analysis
+
+---
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/KPI's.png" />
 
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Stored%20Procedure.png" />
