@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 High Cloud Airlines aims to provide an exceptional travel experience while prioritizing **sustainability and innovation**.  
-This **Power BI project** analyzes flight operations, payload, market share, and travel patterns to help management make **data-driven decisions**.  
+This project analyzes flight operations, payload, market share, and travel patterns to help management make **data-driven decisions**.  
 The dashboard offers interactive filtering, detailed KPIs, and visual insights into **airline efficiency, passenger demand, and route analysis**.
 
 ---
@@ -93,7 +93,7 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 
 ---
 
-### ✈️ SQL Analysis
+### ✈️ SQL High Cloud Analysis
 
 ---
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/KPI's.png" />
