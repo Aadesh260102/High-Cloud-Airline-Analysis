@@ -73,7 +73,7 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 
 ## 🖼 Dashboard Screenshots
 ### ✈️ Excel Dashboard
-<img width="1553" height="863" alt="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Excel%20Dashboard.png" />
+<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Excel%20Dashboard.png" />
 
 ### ✈️ Flight Operations & KPIs  
 [Dashboard Screenshot 1]
