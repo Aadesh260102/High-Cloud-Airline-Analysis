@@ -72,7 +72,8 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 ---
 
 ## 🖼 Dashboard Screenshots
-
+### ✈️ Excel Dashboard
+<img width="1553" height="863" alt="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Excel%20Dashboard.png" />
 
 ### ✈️ Flight Operations & KPIs  
 [Dashboard Screenshot 1]
@@ -85,6 +86,26 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 ### 🌍 Carrier & Route Search Filters  
 [Dashboard Screenshot 3]
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
+
+### ✈️ SQL Analysis
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/KPI's.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Stored%20Procedure.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Yearly%20Load%20Factor.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Financial%20Quarterwise%20Load%20Factor.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Distance%20Group%20based%20No.Flights.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Load%20Factor%20base%20on%20carrier%20name.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%2010%20Carrier%20By%20Passenger.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Weekend%20vs%20Weekday.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%20Routes.png" />
+
 
 ---
 
