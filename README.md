@@ -75,6 +75,10 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 ### ✈️ Excel Dashboard
 <img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Excel%20Dashboard.png" />
 
+--- 
+### ✈️ Power BI  Dashboard
+
+---
 ### ✈️ Flight Operations & KPIs  
 [Dashboard Screenshot 1]
 <img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
