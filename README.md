@@ -48,28 +48,6 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
    - Federal Express – **14.9%**  
    - Hageland Aviation – **14.8%**  
 
----
-
-## 🛠 Dashboard Features
-- **Interactive Filters**  
-  - Year, Quarter, Month selection  
-  - Origin City, State, Country filters  
-  - Destination City, State, Country filters  
-  - Carrier search by name  
-
-- **Visualizations**  
-  - KPI cards: Departures, Payload, Distance  
-  - Bar charts: Top 10 Routes  
-  - Donut chart: Market Share  
-  - Clustered bar: Distance group distribution  
-
-
-## 🛠 Tools & Technologies
-- **Power BI** – Dashboard & Visualizations
-- ** DAX** - Calculation
-- **Power Quary ** – Data Cleaning & Preparation  
-
----
 
 ## 🖼 Dashboard Screenshots
 ### ✈️ Excel Dashboard
@@ -90,6 +68,15 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 ### 🌍 Carrier & Route Search Filters  
 [Dashboard Screenshot 3]
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
+
+---
+
+--- 
+### ✈️ Tableau Dashboard
+---
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Tableau%20Dashboard/Dashboard%201.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Tableau%20Dashboard/Dashboard%202.png" />
 
 ---
 
@@ -114,8 +101,27 @@ The dashboard offers interactive filtering, detailed KPIs, and visual insights i
 
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%20Routes.png" />
 
-
 ---
+
+## 🛠 Dashboard Features
+- **Interactive Filters**  
+  - Year, Quarter, Month selection  
+  - Origin City, State, Country filters  
+  - Destination City, State, Country filters  
+  - Carrier search by name  
+
+- **Visualizations**  
+  - KPI cards: Departures, Payload, Distance  
+  - Bar charts: Top 10 Routes  
+  - Donut chart: Market Share  
+  - Clustered bar: Distance group distribution  
+
+
+## 🛠 Tools & Technologies
+- **Power BI & Tableau** – Dashboard & Visualizations
+- **SQL & Excel ** - Data Undersatnding and Analysis
+
+
 
 ## 🙌 Author
 Created by **[Aadesh Botre]**  
