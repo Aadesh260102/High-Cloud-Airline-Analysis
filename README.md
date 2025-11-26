@@ -1,62 +1,143 @@
-<h1 align="center" style="font-size:60px;">Customer Behaviour Analysis</h1>
+# customer_behaviour_analysis
+
+<h1 align="center" style="font-size:60px;">✈️ High Cloud Airline ✈️</h1>
 
 ---
 
-## 📌 Project Overview
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+## 📌 Overview
+High Cloud Airlines aims to provide an exceptional travel experience while prioritizing **sustainability and innovation**.  
+This project analyzes flight operations, payload, market share, and travel patterns to help management make **data-driven decisions**.  
+The dashboard offers interactive filtering, detailed KPIs, and visual insights into **airline efficiency, passenger demand, and route analysis**.
 
 ---
 
 ## 🎯 Objectives
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
-
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
-
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
-
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+- Track **scheduled vs. performed departures**  
+- Monitor **payload capacity** and **distance covered**  
+- Analyze **top flight routes** by passenger demand  
+- Segment **flights by distance groups**  
+- Identify **top airlines by market share**  
+- Enable **carrier and route search filters** for flexible exploration  
 
 ---
 
-## Pyhon 
--- Data Import
+## 📊 Key Performance Indicators (KPIs)
+1. **Departure Analysis**  
+   - Scheduled Departures: **3M**  
+   - Performed Departures: **3M**  
+   - Measures operational efficiency  
 
--- Data exploration
+2. **Payload & Distance**  
+   - Payload handled: **78 billion KG**  
+   - Distance covered: **82 million KM**  
 
--- Data cleaning
+3. **Top 10 Routes by Flight Count**  
+   - *Chicago → Detroit* (**95 flights**)  
+   - *Washington DC → Atlanta* (**88 flights**)  
+   - *Washington DC → Charlotte* (**86 flights**)  
+   - More top-performing routes visualized  
 
+4. **Flights by Distance Group**  
+   - < 500 miles → **58K flights**  
+   - 500–999 miles → **28K flights**  
+   - 1000–1499 miles → **11K flights**  
+   - 1500–1999 miles → **6K flights**  
+
+5. **Top 5 Airlines by Market Share**  
+   - Delta Air Lines – **26.5%**  
+   - Continental Airlines – **25.7%**  
+   - Southwest Airlines – **18.0%**  
+   - Federal Express – **14.9%**  
+   - Hageland Aviation – **14.8%**  
+
+
+## 🖼 Dashboard Screenshots
+### ✈️ Excel Dashboard
+<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Excel%20Dashboard.png" />
 
 --- 
-
-## Sql
-Use To find Business Problem
-
-
+### ✈️ Power BI  Dashboard
 
 ---
-## 🖼 Dashboard Screenshots
-### ✈️ Power BI Dashboard
-<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="" />
+### ✈️ Flight Operations & KPIs  
+[Dashboard Screenshot 1]
+<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
 
+### 📊 Routes, Distance Groups & Market Share  
+[Dashboard Screenshot 2]
+<img width="1562" height="862" alt="Dashboard 2" src="https://github.com/user-attachments/assets/598c32d8-5f80-4871-9b5c-5c265b4bd1b3" />
 
-
-
+### 🌍 Carrier & Route Search Filters  
+[Dashboard Screenshot 3]
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/user-attachments/assets/a515c983-23fb-40cc-9ef6-759bbddfb2fa" />
 
 ---
 
+--- 
+### ✈️ Tableau Dashboard
+---
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Tableau%20Dashboard/Dashboard%201.png" />
 
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/Tableau%20Dashboard/Dashboard%202.png" />
 
+---
+
+### ✈️ SQL High Cloud Analysis
+
+---
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/KPI's.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Stored%20Procedure.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Yearly%20Load%20Factor.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Financial%20Quarterwise%20Load%20Factor.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Distance%20Group%20based%20No.Flights.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Load%20Factor%20base%20on%20carrier%20name.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%2010%20Carrier%20By%20Passenger.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Weekend%20vs%20Weekday.png" />
+
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%20Routes.png" />
+
+---
+
+## 🛠 Dashboard Features
+- **Interactive Filters**  
+  - Year, Quarter, Month selection  
+  - Origin City, State, Country filters  
+  - Destination City, State, Country filters  
+  - Carrier search by name  
+
+- **Visualizations**  
+  - KPI cards: Departures, Payload, Distance  
+  - Bar charts: Top 10 Routes  
+  - Donut chart: Market Share  
+  - Clustered bar: Distance group distribution  
 
 
 ## 🛠 Tools & Technologies
-- **Power BI ** – Dashboard & Visualizations
-- **SQL & Python ** - Data Analysis & cleaning
+- **Power BI & Tableau** – Dashboard & Visualizations
+- **SQL & Excel ** - Data Undersatnding and Analysis
 
 
 
 ## 🙌 Author
 Created by **[Aadesh Botre]**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aadesh-botre-data-analytics/) 
+
+
+
+
+
+
+
+
+
+
 
 
 
